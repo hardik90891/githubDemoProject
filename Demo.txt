@@ -1,7 +1,3 @@
 # githubDemoProject
 Hello Apurva
 Hello Hardik
-Hello  Satva 2
-Hello Git Team
-Hello Test Satva
-
